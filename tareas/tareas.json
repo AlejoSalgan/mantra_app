@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "hacer la cama",
+        "hecha": false
+    },
+    {
+        "nombre": "matar a la gorda",
+        "hecha": false
+    }
+]
