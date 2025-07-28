@@ -1,0 +1,48 @@
+#logo {
+    margin-bottom: 10px;
+}
+
+QWidget {
+    background-color: #171717;
+}
+
+#btnInput {
+    background-color: #242424;
+    color: white;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-weight: bold;
+}
+
+#tarea {
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+#btnAgregar {
+    background-color: #57e263;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#btnAgregar:hover {
+    background-color: #52A100;
+}
+
+#btnEliminar {
+    background-color: #FF5C5C;
+    color: white;
+    padding: 6px 10px;
+    border: 2px solid #cc3c3c;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#btnEliminar:hover {
+    background-color: #e04b4b;
+}
